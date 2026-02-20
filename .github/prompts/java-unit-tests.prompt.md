@@ -1,5 +1,5 @@
 ---
-mode: ask
+mode: agent
 description: Generate a comprehensive JUnit 5 test suite for a Java class that was migrated from COBOL, using Mockito, AssertJ, and Spring Boot Test.
 ---
 

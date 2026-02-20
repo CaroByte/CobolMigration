@@ -1,5 +1,5 @@
 ---
-mode: ask
+mode: agent
 description: Migrate a COBOL program or paragraph to modern Java 17/21, producing a Spring Boot service class, a domain model, and a JUnit 5 test skeleton.
 ---
 

@@ -1,5 +1,5 @@
 ---
-mode: ask
+mode: agent
 description: Generate a comprehensive COBOL unit test suite for a given program or paragraph using the COBOL-check framework.
 ---
 
